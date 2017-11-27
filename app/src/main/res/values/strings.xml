@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ged</string>
+    <string-array name="types">
+        <item>Document</item>
+        <item>User</item>
+    </string-array>
+</resources>
